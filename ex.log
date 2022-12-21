@@ -1,0 +1,8 @@
+INFO:root:the computer chose a number 5
+INFO:root:Player called number 2 The hidden number is greater
+INFO:root:Player called number 4 The hidden number is greater
+INFO:root:Player called number 6 The hidden number is less
+INFO:root:Attempts ended.
+INFO:root:the computer chose a number 2
+INFO:root:Player called number 3 The hidden number is less
+INFO:root:Player win!
