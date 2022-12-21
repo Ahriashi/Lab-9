@@ -26,6 +26,7 @@ def play_game(N, k):
             logging.info("Player called number {} The hidden number is less".format(guess))
 
     # если у пользователя закончились попытки
+    print("Вы не угадали :(")
     logging.info("Attempts ended.")
 
 
